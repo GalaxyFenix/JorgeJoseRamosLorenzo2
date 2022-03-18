@@ -1,0 +1,5 @@
+Licencia GPL: 
+Se conservan los derechos de autor,  pero permite su libre distribución, modificación y uso siempre y cuando, en el caso de que el software se modifique, el nuevo software que se desarrolle como resultado quede obligatoriamente con la misma licencia. 
+Incluso si el software con licencia GPL solo fuera una parte de otro programa, este programa también tendría que mantener la licencia. 
+Está considerada la primera licencia copyleft y, bajo esta filosofía, cualquier código fuente licenciado bajo GPL, debe estar disponible y accesible, para copias ilimitadas y a cualquier persona que lo solicite. 
+De cara al usuario final, el software licenciado bajo GPL es totalmente gratuito, pudiendo pagar únicamente por gastos de copiado y distribución
